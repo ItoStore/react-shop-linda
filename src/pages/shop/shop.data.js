@@ -13,7 +13,7 @@ const SHOP_DATA = [
           // imageUrl: "/images/shop-img/hats/brown-brim.png",
           price: 25
         },
-        {
+        { 
           id: 2,
           name: 'Blue Beanie',
           imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',

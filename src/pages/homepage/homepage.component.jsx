@@ -10,4 +10,4 @@ export const HomePage = () => (
            <Directory/>
         </div>
     </div>
-)
+) 

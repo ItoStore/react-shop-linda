@@ -15,7 +15,7 @@ export const CollectionPreview = ({title, items}) => (
                     return (
                         <CollectionItem key={id} {...otherItemProps}/>
                     )
-                })
+                 })
             }
         </div>
     </div>
