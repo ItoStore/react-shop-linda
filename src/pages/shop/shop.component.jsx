@@ -14,7 +14,7 @@ export class ShopPage extends React.Component{
             collection : SHOP_DATA
         }
     }
-
+ 
     render() {
         const {collection} = this.state;
         return (
