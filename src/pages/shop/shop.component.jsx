@@ -25,7 +25,7 @@ export class ShopPage extends React.Component{
                         collection.map( ({id, ...otherCollectionParams}) => {
                             return <CollectionPreview key={id} {...otherCollectionParams}/>
                         } )
-                    }
+                    } 
                 </div>
             </div>
             

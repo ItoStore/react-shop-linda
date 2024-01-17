@@ -9,5 +9,5 @@ export const HomePage = () => (
         <div className="directory-menu">
            <Directory/>
         </div>
-    </div>
+    </div> 
 ) 
